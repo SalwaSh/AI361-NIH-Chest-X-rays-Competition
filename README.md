@@ -1,1 +1,1 @@
-# AI361-Competition-
+# AI361-NIH-Chest-X-rays-Competition
